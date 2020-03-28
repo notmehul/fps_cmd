@@ -11,5 +11,3 @@ I implemented a 2.5D game using nothing but C++
 # Brief Description from the image:
 * I had used unicode to mark the walls with different levels of opacity according to the distance of the player from them
 * I used regular ASCII letters for te floor to give a psuedo depth of feel effect.
-
-Special thanks to @onelonecoder I coudn't have done it without his tutorials.
