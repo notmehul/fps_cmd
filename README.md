@@ -9,9 +9,9 @@ I implemented a 2.5D game using nothing but C++
 ![Image of the code running](https://github.com/notmehul/fps_cmd/blob/master/images/FPS.JPG)
 
 # Brief Description from the image:
-*I had used unicode to mark the walls with different levels of opacity according to the distance of the player from them
-*I used regular ASCII letters for te floor to give a psuedo depth of feel effect.
+* I had used unicode to mark the walls with different levels of opacity according to the distance of the player from them
+* I used regular ASCII letters for te floor to give a psuedo depth of feel effect.
 
 # Updates to come in the future:
-*proper layout of maps with enemies and such.
-*implementing a weapon.
+* Proper layout of maps with enemies and such.
+* Implementing a weapon.
