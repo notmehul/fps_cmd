@@ -1,5 +1,5 @@
 # FPS_cmd
-I implemented a 2.5D game using nothing but C++
+I implemented a 2.5D game using just C++
 
 # Installation
 * No specific software is required to run this, just download the code and run it on your windows machine
